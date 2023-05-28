@@ -1,6 +1,6 @@
 # Logo Classifier using GoogLeNet
 
-This project trains a logo classifier using a pre-trained GoogLeNet model fine-tuned on a custom dataset of logos. The dataset consists of images from ten different brands, and the model classifies an input image into one of these ten classes and an unknown class. A PDF of the final paper can be found in "Project Final Paper.pdf".
+This project trains a logo classifier using a pre-trained GoogLeNet model fine-tuned on a custom dataset of logos. The dataset consists of images from ten different brands, and the model classifies an input image into one of these ten classes and an unknown class. A PDF of the final paper can be found in "Project Final Paper.pdf". This project was completed as the final for course EEL5840 - Fundamentals of Machine Learning.
 
 ## Dependencies
 
