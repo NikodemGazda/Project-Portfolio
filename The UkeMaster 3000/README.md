@@ -1,7 +1,7 @@
 # The UkeMaster 3000
 This project was my senior design project for the Spring of 2023. The project features a ukulele robot which takes any sound as an input and plays it back on a ukulele in real-time. A more detailed description can be found in the final report in this repository. The device is meant as an instructional tool and its motivation comes from my journey in learning how to play the guitar. The original idea involved a guitar but the ukulele was a more manageable choice given our time frame and resources.
 
-The UkeMaster 3000 was constructed both by Ryan Simoneau and I. We both contributed to each others work and there are areas where we both contributed equally, but the sections I was responsible for in the project are:
+The UkeMaster 3000 was constructed both by Ryan Simoneau and I. We contributed to each others work and there are areas where we both contributed equally, but the sections I was responsible for in the project are:
 - Microphone Amplifier/Filter
 - Solenoid and Servo Motor PCB
 - Signal Processing
