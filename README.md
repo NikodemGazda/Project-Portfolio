@@ -16,3 +16,8 @@ Game of Breakout programmed from scratch using an RTOS on a TIVA C series Launch
 Logo classification machine learning model used to classify natural images of the logos of 10 different companies. Final project for EEL5840 - Fundamentals of Machine Learning, Spring of 2023.
 
 **Relevant topics: Machine learning, neural networks, transfer learning.**
+
+- **[SRAM VLSI Design:](https://github.com/NikodemGazda/Projects/tree/main/Logo%20Classification%20-%20Machine%20Learning)**
+Functioning transistor-scale design of an SRAM cell. This project was completed as a group for EEE4310 - VLSI Circuits and Technology. Project includes demux logic, 4x2 SRAM, sense amplifier, and read-write logic.
+
+**Relevant topics: VLSI/IC Design, SRAM, digital circuit simulation and verification.**
