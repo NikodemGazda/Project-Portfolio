@@ -17,7 +17,7 @@ Logo classification machine learning model used to classify natural images of th
 
 **Relevant topics: Machine learning, neural networks, transfer learning.**
 
-- **[SRAM VLSI Design:](https://github.com/NikodemGazda/Projects/tree/main/Logo%20Classification%20-%20Machine%20Learning)**
+- **[SRAM VLSI Design:](https://github.com/NikodemGazda/Projects/tree/main/SRAM%20VLSI%20Design)**
 Functioning transistor-scale design of an SRAM cell. This project was completed as a group for EEE4310 - VLSI Circuits and Technology. Project includes demux logic, 4x2 SRAM, sense amplifier, and read-write logic.
 
 **Relevant topics: VLSI/IC Design, SRAM, digital circuit simulation and verification.**
