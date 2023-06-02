@@ -7,10 +7,17 @@ in this repository gives a more detailed description of the project and each of 
 [Schematics and Layout](https://github.com/NikodemGazda/Projects/blob/main/SRAM%20VLSI%20Design/Schematics%20and%20Layouts.pdf)
 provides more schematics and layouts to support the project.
 
-# Decoder Schematics
+# Layout Integration (Download for higher resolution)
+![final_layout](https://github.com/NikodemGazda/Projects/assets/26459327/4600c0d1-c1a7-4883-acad-6b1bce5d1797)
 
 # Decoder Layout
 ## Row Decoder
 ![Row Decoder Layout](https://github.com/NikodemGazda/Projects/assets/26459327/25e42629-f2f2-49ae-9d52-94f8bc510299)
 
-# Integration
+## Column Decoder
+
+# Decoder Schematics
+# Row Decoder
+
+# Column Decoder
+![col_decoder_schematic](https://github.com/NikodemGazda/Projects/assets/26459327/199d212d-fe36-45c5-8418-1f1fb307ac85)
