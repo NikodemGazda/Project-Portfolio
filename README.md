@@ -1,4 +1,4 @@
-# Undergraduate Projects
+# Undergraduate Project Portfolio
 This repository is an archive of the projects I've completed during my undergraduate degree at the University of Florida.
 
 # List of Projects:
@@ -29,6 +29,13 @@ Functioning transistor-scale design of an SRAM cell. This project was completed 
 <img src="https://github.com/NikodemGazda/Projects/assets/26459327/a9d88f0d-fa55-40c7-8672-fe2c54f40d5b" width="780" height="200">
 
 **Relevant topics: VLSI/IC Design, SRAM, digital circuit simulation and verification.**
+
+## **[MIPS Architecture:](link)**
+Functioning MIPS architecture capable of running programs built on the DE-10 Lite FPGA. This was a final project for EEL4310 - VLSI Circuits and Technology. Project includes demux logic, 4x2 SRAM, sense amplifier, and read-write logic.
+
+<img src="picture w/ link to spreadsheet" width="780" height="200">
+
+**Relevant topics: Javascript.**
 
 ## **[Guitar Teaching Tool:](link)**
 Description
