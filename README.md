@@ -29,3 +29,11 @@ Functioning transistor-scale design of an SRAM cell. This project was completed 
 <img src="https://github.com/NikodemGazda/Projects/assets/26459327/a9d88f0d-fa55-40c7-8672-fe2c54f40d5b" width="780" height="200">
 
 **Relevant topics: VLSI/IC Design, SRAM, digital circuit simulation and verification.**
+
+## **[Guitar Teaching Tool:](link)**
+Description
+
+<img src="picture w/ link to spreadsheet" width="780" height="200">
+
+**Relevant topics: Javascript.**
+
