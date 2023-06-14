@@ -19,6 +19,8 @@ Game of Breakout programmed from scratch using an RTOS on a TIVA C series Launch
 ## **[Logo Classification:](https://github.com/NikodemGazda/Projects/tree/main/Logo%20Classification%20-%20Machine%20Learning)**
 Logo classification machine learning model used to classify natural images of the logos of 10 different companies. Final project for EEL5840 - Fundamentals of Machine Learning, Spring of 2023.
 
+<img src="https://github.com/NikodemGazda/Projects/assets/26459327/eb4146f0-6f20-45df-a2ba-40a4d897bf94" width="356" height="200">
+
 **Relevant topics: Machine learning, neural networks, transfer learning.**
 
 ## **[SRAM VLSI Design:](https://github.com/NikodemGazda/Projects/tree/main/SRAM%20VLSI%20Design)**
