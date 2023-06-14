@@ -12,19 +12,20 @@ provides more schematics and layouts to support the project.
 _Click and zoom for higher resolution_
 ![final_layout](https://github.com/NikodemGazda/Projects/assets/26459327/4600c0d1-c1a7-4883-acad-6b1bce5d1797)
 
-# Schematic Integration
+# Schematic
+![final_schem](https://github.com/NikodemGazda/Projects/assets/26459327/7c4df6b0-fc0e-4ff8-a244-e1b723168ff1)
 
-
-# Decoder Layout
-## Row Decoder
+# Decoder
+## Layout
+### Row Decoder
 ![Row Decoder Layout](https://github.com/NikodemGazda/Projects/assets/26459327/25e42629-f2f2-49ae-9d52-94f8bc510299)
 
-## Column Decoder
+### Column Decoder
 ![col_layout](https://github.com/NikodemGazda/Projects/assets/26459327/43a661df-0190-4277-8fb3-b7ed6916d2f9)
 
+## Schematics
+### Row Decoder
+![row_schem](https://github.com/NikodemGazda/Projects/assets/26459327/f707cc23-fc7d-4965-996a-2b91f424cf42)
 
-# Decoder Schematics
-# Row Decoder
-
-# Column Decoder
+### Column Decoder
 ![col_decoder_schematic](https://github.com/NikodemGazda/Projects/assets/26459327/199d212d-fe36-45c5-8418-1f1fb307ac85)
