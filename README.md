@@ -12,6 +12,8 @@ Ukulele robot that plays back any sounds recorded into it on a ukulele. Senior D
 ## **[GatorBreaker:](https://github.com/NikodemGazda/Projects/tree/main/GatorBreaker)**
 Game of Breakout programmed from scratch using an RTOS on a TIVA C series LaunchPad. Final project for EEL4745C - MicroProcessor Applications 2, Fall of 2022. Project prompt was to create an interesting project with elements of a real-time operating system.
 
+<img src="https://github.com/NikodemGazda/Projects/assets/26459327/dab3a0d5-39de-4be7-bc10-43c1410d77d6" width="356" height="200">
+
 **Relevant topics: RTOS.**
 
 ## **[Logo Classification:](https://github.com/NikodemGazda/Projects/tree/main/Logo%20Classification%20-%20Machine%20Learning)**
