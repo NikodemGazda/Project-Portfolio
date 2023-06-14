@@ -7,7 +7,7 @@ in this repository gives a more detailed description of the project and each of 
 [Schematics and Layout](https://github.com/NikodemGazda/Projects/blob/main/SRAM%20VLSI%20Design/Schematics%20and%20Layouts.pdf)
 provides more schematics and layouts to support the project.
 
-Below are the schematics and layouts for which I was directly responsible in the project.
+Below are the schematics and layouts for which I was directly responsible.
 
 # Integration
 ## Layout
