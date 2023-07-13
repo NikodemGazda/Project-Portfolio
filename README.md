@@ -44,3 +44,10 @@ Description
 
 **Relevant topics: Javascript.**
 
+## **[FPGA Pong:](link)**
+Description
+
+<img src="picture w/ link to spreadsheet" width="780" height="200">
+
+**Relevant topics: Javascript.**
+
