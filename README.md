@@ -16,12 +16,12 @@ Game of Breakout programmed from scratch using an RTOS on a TIVA C series Launch
 
 **Relevant topics: RTOS.**
 
-## **[Logo Classification:](https://github.com/NikodemGazda/Projects/tree/main/Logo%20Classification%20-%20Machine%20Learning)**
-Logo classification machine learning model (using GoogLeNet) used to classify natural images of the logos of 10 different companies. Final project for EEL5840 - Fundamentals of Machine Learning, Spring of 2023.
+## **[FPGA Pong:](folder_work_in_progress)**
+Fully functioning game of pong implemented using a Basys 3 FPGA in both VHDL and Verilog. Initially implemented as pure hardware, eventually evolved to full SoC with hardware, software, and OS. Group project in EEL5934 - System-on-Chip Design.
 
-<img src="https://github.com/NikodemGazda/Projects/assets/26459327/eb4146f0-6f20-45df-a2ba-40a4d897bf94" width="356" height="200">
+<img src="https://github.com/NikodemGazda/Project-Portfolio/assets/26459327/e6f79df7-55d0-46a1-95a9-b7a276275207" width="360" height="200">
 
-**Relevant topics: Machine learning, neural networks, transfer learning.**
+**Relevant topics: VHDL, SoC Design, Hardware/Software Partitioning**
 
 ## **[SRAM VLSI Design:](https://github.com/NikodemGazda/Projects/tree/main/SRAM%20VLSI%20Design)**
 Functioning transistor-scale design of an SRAM cell. This project was completed as a group for EEE4310 - VLSI Circuits and Technology. Project includes demux logic, 4x2 SRAM, sense amplifier, and read-write logic.
@@ -29,6 +29,13 @@ Functioning transistor-scale design of an SRAM cell. This project was completed 
 <img src="https://github.com/NikodemGazda/Projects/assets/26459327/a9d88f0d-fa55-40c7-8672-fe2c54f40d5b" width="780" height="200">
 
 **Relevant topics: VLSI/IC Design, SRAM, digital circuit simulation and verification.**
+
+## **[Logo Classification:](https://github.com/NikodemGazda/Projects/tree/main/Logo%20Classification%20-%20Machine%20Learning)**
+Logo classification machine learning model (using GoogLeNet) used to classify natural images of the logos of 10 different companies. Final project for EEL5840 - Fundamentals of Machine Learning, Spring of 2023.
+
+<img src="https://github.com/NikodemGazda/Projects/assets/26459327/eb4146f0-6f20-45df-a2ba-40a4d897bf94" width="356" height="200">
+
+**Relevant topics: Machine learning, neural networks, transfer learning.**
 
 ## **[MIPS Architecture:](folder_work_in_progress)**
 Functioning MIPS architecture capable of running programs built on the DE-10 Lite FPGA. This was a final project for EEL4712 - Digital Design. Project includes diagram to explain datapath and FSM.
@@ -43,11 +50,4 @@ Learned JavaScript to create an app to make it easier to learn the guitar. I hon
 <img src="https://github.com/NikodemGazda/Project-Portfolio/assets/26459327/ed002c83-b59b-40c3-89f0-6b64da41b029" width="423" height="200">
 
 **Relevant topics: Javascript, Music :)**
-
-## **[FPGA Pong:](folder_work_in_progress)**
-Fully functioning game of pong implemented using a Basys 3 FPGA in both VHDL and Verilog. Initially implemented as pure hardware, eventually evolved to full SoC with hardware, software, and OS. Group project in EEL5934 - System-on-Chip Design.
-
-<img src="https://github.com/NikodemGazda/Project-Portfolio/assets/26459327/e6f79df7-55d0-46a1-95a9-b7a276275207" width="360" height="200">
-
-**Relevant topics: VHDL, SoC Design, Hardware/Software Partitioning**
 
