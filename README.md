@@ -47,7 +47,7 @@ Learned JavaScript to create an app to make it easier to learn the guitar. I hon
 ## **[FPGA Pong:](folder_work_in_progress)**
 Fully functioning game of pong implemented using a Basys 3 FPGA in both VHDL and Verilog. Initially implemented as pure hardware, eventually evolved to full SoC with hardware, software, and OS. Group project in EEL5934 - System-on-Chip Design.
 
-<img src="https://github.com/NikodemGazda/Project-Portfolio/assets/26459327/e6f79df7-55d0-46a1-95a9-b7a276275207" width="780" height="200">
+<img src="https://github.com/NikodemGazda/Project-Portfolio/assets/26459327/e6f79df7-55d0-46a1-95a9-b7a276275207" width="360" height="200">
 
 **Relevant topics: VHDL, SoC Design, Hardware/Software Partitioning**
 
