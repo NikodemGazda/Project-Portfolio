@@ -7,7 +7,7 @@ Ukulele robot that plays back any sounds recorded into it on a ukulele. Senior D
 
 <img src="https://github.com/NikodemGazda/Projects/assets/26459327/91d85d06-5b33-4f11-8b8b-8562115df68e" width="356" height="200">
 
-**Relevant topics: FPGA, signal processing, troubleshooting**.
+**Relevant topics: FPGA, VHDL, Signal Processing, Troubleshooting**.
 
 ## **[GatorBreaker:](https://github.com/NikodemGazda/Projects/tree/main/GatorBreaker)**
 Game of Breakout programmed from scratch using an RTOS on a TIVA C series LaunchPad. Final project for EEL4745C - MicroProcessor Applications 2, Fall of 2022. Project prompt was to create an interesting project with elements of a real-time operating system.
@@ -28,14 +28,14 @@ Functioning transistor-scale design of an SRAM cell. This project was completed 
 
 <img src="https://github.com/NikodemGazda/Projects/assets/26459327/a9d88f0d-fa55-40c7-8672-fe2c54f40d5b" width="780" height="200">
 
-**Relevant topics: VLSI/IC Design, SRAM, digital circuit simulation and verification.**
+**Relevant topics: VLSI/IC Design, SRAM, Digital Circuit Simulation and Verification.**
 
 ## **[Logo Classification:](https://github.com/NikodemGazda/Projects/tree/main/Logo%20Classification%20-%20Machine%20Learning)**
 Logo classification machine learning model (using GoogLeNet) used to classify natural images of the logos of 10 different companies. Final project for EEL5840 - Fundamentals of Machine Learning, Spring of 2023.
 
 <img src="https://github.com/NikodemGazda/Projects/assets/26459327/eb4146f0-6f20-45df-a2ba-40a4d897bf94" width="356" height="200">
 
-**Relevant topics: Machine learning, neural networks, transfer learning.**
+**Relevant topics: Machine Learning, Neural Networks, Transfer Learning.**
 
 ## **[MIPS Architecture:](folder_work_in_progress)**
 Functioning MIPS architecture capable of running programs built on the DE-10 Lite FPGA. This was a final project for EEL4712 - Digital Design. Project includes diagram to explain datapath and FSM.
