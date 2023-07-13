@@ -3,7 +3,7 @@ This repository is an archive of the projects I've completed during my undergrad
 
 # List of Projects:
 ## **[The UkeMaster 3000:](https://github.com/NikodemGazda/Projects/tree/main/The%20UkeMaster%203000)**
-Ukulele robot that plays back any sounds recorded into it on a ukulele. Senior Design project for the Spring of 2023, won first place out of ~30 other projects.
+Ukulele robot that plays back any sounds recorded into it on a ukulele. Senior Design project for the Spring of 2023, won first place out of ~30 other projects. This design required extensive hardware programming using VHDL to create a complex system with custom SPI and Solenoid/Servo control modules as well as intricate, fine-tuned timing requirements.
 
 <img src="https://github.com/NikodemGazda/Projects/assets/26459327/91d85d06-5b33-4f11-8b8b-8562115df68e" width="356" height="200">
 
