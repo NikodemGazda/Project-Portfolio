@@ -51,3 +51,10 @@ Learned JavaScript to create an app to make it easier to learn the guitar. I hon
 
 **Relevant topics: Javascript, Music :)**
 
+## **[GazdaSolar Estimate Tool:](folder_work_in_progress)**
+Estimate calculator tool for solar panel installation company Gazda Solar. Challenged to create this calculator with no prior knowledge of website development. Learned tools like PHP, CSS, or HTML to create the beautiful masterpiece you see before you:
+
+<img src="https://github.com/NikodemGazda/Project-Portfolio/assets/26459327/d67fb82c-4444-427f-b9ec-60ecde02dde7" width="347" height="400">
+
+**Relevant topics: PHP, CSS, HTML**
+
