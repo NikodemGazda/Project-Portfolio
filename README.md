@@ -30,24 +30,24 @@ Functioning transistor-scale design of an SRAM cell. This project was completed 
 
 **Relevant topics: VLSI/IC Design, SRAM, digital circuit simulation and verification.**
 
-## **[MIPS Architecture:](link)**
-Functioning MIPS architecture capable of running programs built on the DE-10 Lite FPGA. This was a final project for EEL4310 - VLSI Circuits and Technology. Project includes demux logic, 4x2 SRAM, sense amplifier, and read-write logic.
+## **[MIPS Architecture:](folder_work_in_progress)**
+Functioning MIPS architecture capable of running programs built on the DE-10 Lite FPGA. This was a final project for EEL4712 - Digital Design. Project includes diagram to explain datapath and FSM.
 
 <img src="picture w/ link to spreadsheet" width="780" height="200">
 
-**Relevant topics: Javascript.**
+**Relevant topics: VHDL, Digital Design, FPGA, Computer systems, FSM, Datapath**
 
-## **[Guitar Teaching Tool:](link)**
-Description
+## **[Guitar Teaching Tool:](folder_work_in_progress)**
+Learned JavaScript to create an app to make it easier to learn the guitar. I honestly use this very often and though the code is less complicated than the other projects listed in this portfolio, it's by far the most useful project and one of the ones I'm most proud of. Pure engineering--I had a problem and I solved it.
 
-<img src="picture w/ link to spreadsheet" width="780" height="200">
+<img src="https://github.com/NikodemGazda/Project-Portfolio/assets/26459327/ed002c83-b59b-40c3-89f0-6b64da41b029" width="423" height="200">
 
-**Relevant topics: Javascript.**
+**Relevant topics: Javascript, Music :)**
 
-## **[FPGA Pong:](link)**
-Description
+## **[FPGA Pong:](folder_work_in_progress)**
+Fully functioning game of pong implemented using a Basys 3 FPGA in both VHDL and Verilog. Initially implemented as pure hardware, eventually evolved to full SoC with hardware, software, and OS. Group project in EEL5934 - System-on-Chip Design.
 
-<img src="picture w/ link to spreadsheet" width="780" height="200">
+<img src="https://github.com/NikodemGazda/Project-Portfolio/assets/26459327/e6f79df7-55d0-46a1-95a9-b7a276275207" width="780" height="200">
 
-**Relevant topics: Javascript.**
+**Relevant topics: VHDL, SoC Design, Hardware/Software Partitioning**
 
