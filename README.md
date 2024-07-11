@@ -16,12 +16,26 @@ Game of Breakout programmed from scratch using an RTOS on a TIVA C series Launch
 
 **Relevant topics: RTOS.**
 
+## **[DRAM DMA Interface:](folder_work_in_progress)**
+Half of the final for Recongifurable Computing, this project is a DRAM DMA interface that streams data to/from external DRAM. The main challenge of interfacing with the DRAMs is dealing with both control and data signals that cross clock domains. This project dealt with RTL Design, plenty of functional verification, time-domain crossing, and metastability.
+
+<img src="https://github.com/NikodemGazda/Project-Portfolio/assets/26459327/e6f79df7-55d0-46a1-95a9-b7a276275207" width="360" height="200">
+
+**Relevant topics: RTL Design, Functional digital verification, time-domain crossing, metastability.**
+
 ## **[FPGA Pong:](folder_work_in_progress)**
 Fully functioning game of pong implemented using a Basys 3 FPGA in both VHDL and Verilog. Initially implemented as pure hardware, eventually evolved to full SoC with hardware, software, and OS. Group project in EEL5934 - System-on-Chip Design.
 
 <img src="https://github.com/NikodemGazda/Project-Portfolio/assets/26459327/e6f79df7-55d0-46a1-95a9-b7a276275207" width="360" height="200">
 
 **Relevant topics: VHDL, SoC Design, Hardware/Software Partitioning**
+
+## **[MIPS Architecture:](folder_work_in_progress)**
+Functioning MIPS architecture capable of running programs built on the DE-10 Lite FPGA. This was a final project for EEL4712 - Digital Design. Project includes diagram to explain datapath and FSM.
+
+<img src="https://github.com/NikodemGazda/Project-Portfolio/assets/26459327/93c21f84-c250-4552-83ba-892e93901c30" width="317" height="200">
+
+**Relevant topics: VHDL, Digital Design, FPGA, Computer systems, FSM, Datapath**
 
 ## **[SRAM VLSI Design:](https://github.com/NikodemGazda/Projects/tree/main/SRAM%20VLSI%20Design)**
 Functioning transistor-scale design of an SRAM cell. This project was completed as a group for EEE4310 - VLSI Circuits and Technology. Project includes demux logic, 4x2 SRAM, sense amplifier, and read-write logic.
@@ -37,7 +51,28 @@ Logo classification machine learning model (using GoogLeNet) used to classify na
 
 **Relevant topics: Machine Learning, Neural Networks, Transfer Learning.**
 
-## **[MIPS Architecture:](folder_work_in_progress)**
+## **[RAID 5 File System from Scratch:](folder_work_in_progress)**
+Functioning MIPS architecture capable of running programs built on the DE-10 Lite FPGA. This was a final project for EEL4712 - Digital Design. Project includes diagram to explain datapath and FSM.
+
+<img src="https://github.com/NikodemGazda/Project-Portfolio/assets/26459327/93c21f84-c250-4552-83ba-892e93901c30" width="317" height="200">
+
+**Relevant topics: VHDL, Digital Design, FPGA, Computer systems, FSM, Datapath**
+
+## **[Simulation of a Keyboard Linux Driver:](folder_work_in_progress)**
+Functioning MIPS architecture capable of running programs built on the DE-10 Lite FPGA. This was a final project for EEL4712 - Digital Design. Project includes diagram to explain datapath and FSM.
+
+<img src="https://github.com/NikodemGazda/Project-Portfolio/assets/26459327/93c21f84-c250-4552-83ba-892e93901c30" width="317" height="200">
+
+**Relevant topics: VHDL, Digital Design, FPGA, Computer systems, FSM, Datapath**
+
+## **[Case Study on Parallel Computing Benchmarks:](folder_work_in_progress)**
+Functioning MIPS architecture capable of running programs built on the DE-10 Lite FPGA. This was a final project for EEL4712 - Digital Design. Project includes diagram to explain datapath and FSM.
+
+<img src="https://github.com/NikodemGazda/Project-Portfolio/assets/26459327/93c21f84-c250-4552-83ba-892e93901c30" width="317" height="200">
+
+**Relevant topics: VHDL, Digital Design, FPGA, Computer systems, FSM, Datapath**
+
+## **[AWS IoT Home AC System:](folder_work_in_progress)**
 Functioning MIPS architecture capable of running programs built on the DE-10 Lite FPGA. This was a final project for EEL4712 - Digital Design. Project includes diagram to explain datapath and FSM.
 
 <img src="https://github.com/NikodemGazda/Project-Portfolio/assets/26459327/93c21f84-c250-4552-83ba-892e93901c30" width="317" height="200">
