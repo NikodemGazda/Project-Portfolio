@@ -58,7 +58,7 @@ Functioning MIPS architecture capable of running programs built on the DE-10 Lit
 
 **Relevant topics: VHDL, Digital Design, FPGA, Computer systems, FSM, Datapath**
 
-## **[Simulation of a Keyboard Linux Driver:](folder_work_in_progress)**
+## **[Linux Keyboard Driver:](folder_work_in_progress)**
 Functioning MIPS architecture capable of running programs built on the DE-10 Lite FPGA. This was a final project for EEL4712 - Digital Design. Project includes diagram to explain datapath and FSM.
 
 <img src="https://github.com/NikodemGazda/Project-Portfolio/assets/26459327/93c21f84-c250-4552-83ba-892e93901c30" width="317" height="200">
