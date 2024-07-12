@@ -2,20 +2,20 @@
 This repository is a collection of the individual and collaborative projects I've worked on during my undergraduate and graduate degrees at the University of Florida, as well as projects I've taken on personally to develop my skills and expand my expertise in computer engineering.
 
 # Table of Contents:
-- <span style="color: red;">Red text</span>: Projects in progress
+- 🔧: Documentation in progress
 - [The UkeMaster 3000](#the-ukemaster-3000)
 - [GatorBreaker](#gatorbreaker)
-- [DRAM DMA Interface](#dram-dma-interface)
+- 🔧 [DRAM DMA Interface](#dram-dma-interface) 🔧
 - [FPGA Pong](#fpga-pong)
-- [MIPS Architecture](#mips-architecture)
+- 🔧 [MIPS Architecture](#mips-architecture) 🔧
 - [SRAM VLSI Design](#sram-vlsi-design)
 - [Logo Classification](#logo-classification)
-- <a href="#raid-5-file-system-from-scratch" style="color: red;">RAID 5 File System from Scratch</a>
-- <a href="#linux-keyboard-driver" style="color: red;">Linux Keyboard Driver</a>
-- <a href="#case-study-on-parallel-computing-benchmark-laghos" style="color: red;">Case Study on Parallel Computing Benchmark LAGHOS</a>
-- <a href="#aws-iot-home-ac-system" style="color: red;">AWS IoT Home AC System</a>
-- [Guitar Teaching Tool](#guitar-teaching-tool)
-- [GazdaSolar Estimate Tool](#gazdasolar-estimate-tool)
+- 🔧 [RAID 5 File System from Scratch](#raid-5-file-system-from-scratch) 🔧
+- 🔧 [Linux Keyboard Driver](#linux-keyboard-driver) 🔧
+- 🔧 [Case Study on Parallel Computing Benchmark LAGHOS](#case-study-on-parallel-computing-benchmark-laghos) 🔧
+- 🔧 [AWS IoT Home AC System](#aws-iot-home-ac-system) 🔧
+- 🔧 [Guitar Teaching Tool](#guitar-teaching-tool) 🔧
+- 🔧 [GazdaSolar Estimate Tool](#gazdasolar-estimate-tool) 🔧
 
 # List of Projects:
 ## **[The UkeMaster 3000:](https://github.com/NikodemGazda/Projects/tree/main/The%20UkeMaster%203000)**
