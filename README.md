@@ -1,6 +1,21 @@
 # Project Portfolio
 This repository is a collection of the individual and collaborative projects I've worked on during my undergraduate and graduate degrees at the University of Florida, as well as projects I've taken on personally to develop my skills and expand my expertise in computer engineering.
 
+# Table of Contents:
+- [The UkeMaster 3000](#the-ukemaster-3000)
+- [GatorBreaker](#gatorbreaker)
+- [DRAM DMA Interface](#dram-dma-interface)
+- [FPGA Pong](#fpga-pong)
+- [MIPS Architecture](#mips-architecture)
+- [SRAM VLSI Design](#sram-vlsi-design)
+- [Logo Classification](#logo-classification)
+- [RAID 5 File System from Scratch](#raid-5-file-system-from-scratch)
+- [Linux Keyboard Driver](#linux-keyboard-driver)
+- [Case Study on Parallel Computing Benchmark LAGHOS](#case-study-on-parallel-computing-benchmark-laghos)
+- [AWS IoT Home AC System](#aws-iot-home-ac-system)
+- [Guitar Teaching Tool](#guitar-teaching-tool)
+- [GazdaSolar Estimate Tool](#gazdasolar-estimate-tool)
+
 # List of Projects:
 ## **[The UkeMaster 3000:](https://github.com/NikodemGazda/Projects/tree/main/The%20UkeMaster%203000)**
 Ukulele robot that plays back any sounds recorded into it on a ukulele. Senior Design project for the Spring of 2023, won first place out of ~30 other projects. This design required extensive hardware programming using VHDL to create a complex system with custom SPI and Solenoid/Servo control modules as well as intricate, fine-tuned timing requirements.
