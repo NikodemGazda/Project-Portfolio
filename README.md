@@ -4,17 +4,17 @@ This repository is a collection of the individual and collaborative projects I'v
 # Table of Contents:
 - [The UkeMaster 3000](#the-ukemaster-3000)
 - [GatorBreaker](#gatorbreaker)
-- [DRAM DMA Interface](#dram-dma-interface)
+- [DRAM DMA Interface (Documentation Work in Progress)](#dram-dma-interface)
 - [FPGA Pong](#fpga-pong)
-- [MIPS Architecture](#mips-architecture)
+- [MIPS Architecture (Documentation Work in Progress)](#mips-architecture)
 - [SRAM VLSI Design](#sram-vlsi-design)
 - [Logo Classification](#logo-classification)
-- [RAID 5 File System from Scratch](#raid-5-file-system-from-scratch)
-- [Linux Keyboard Driver](#linux-keyboard-driver)
-- [Case Study on Parallel Computing Benchmark LAGHOS](#case-study-on-parallel-computing-benchmark-laghos)
-- [AWS IoT Home AC System](#aws-iot-home-ac-system)
-- [Guitar Teaching Tool](#guitar-teaching-tool)
-- [GazdaSolar Estimate Tool](#gazdasolar-estimate-tool)
+- [RAID 5 File System from Scratch (Documentation Work in Progress)](#raid-5-file-system-from-scratch)
+- [Linux Keyboard Driver (Documentation Work in Progress)](#linux-keyboard-driver)
+- [Case Study on Parallel Computing Benchmark LAGHOS (Documentation Work in Progress)](#case-study-on-parallel-computing-benchmark-laghos)
+- [AWS IoT Home AC System (Documentation Work in Progress)](#aws-iot-home-ac-system)
+- [Guitar Teaching Tool (Documentation Work in Progress)](#guitar-teaching-tool)
+- [GazdaSolar Estimate Tool (Documentation Work in Progress)](#gazdasolar-estimate-tool)
 
 # List of Projects:
 ## **[The UkeMaster 3000:](https://github.com/NikodemGazda/Projects/tree/main/The%20UkeMaster%203000)**
