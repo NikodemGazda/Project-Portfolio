@@ -2,19 +2,20 @@
 This repository is a collection of the individual and collaborative projects I've worked on during my undergraduate and graduate degrees at the University of Florida, as well as projects I've taken on personally to develop my skills and expand my expertise in computer engineering.
 
 # Table of Contents:
+- <span style="color: red;">Red text</span>: Projects in progress
 - [The UkeMaster 3000](#the-ukemaster-3000)
 - [GatorBreaker](#gatorbreaker)
-- [DRAM DMA Interface (Documentation Work in Progress)](#dram-dma-interface)
+- [DRAM DMA Interface](#dram-dma-interface)
 - [FPGA Pong](#fpga-pong)
-- [MIPS Architecture (Documentation Work in Progress)](#mips-architecture)
+- [MIPS Architecture](#mips-architecture)
 - [SRAM VLSI Design](#sram-vlsi-design)
 - [Logo Classification](#logo-classification)
-- [RAID 5 File System from Scratch (Documentation Work in Progress)](#raid-5-file-system-from-scratch)
-- [Linux Keyboard Driver (Documentation Work in Progress)](#linux-keyboard-driver)
-- [Case Study on Parallel Computing Benchmark LAGHOS (Documentation Work in Progress)](#case-study-on-parallel-computing-benchmark-laghos)
-- [AWS IoT Home AC System (Documentation Work in Progress)](#aws-iot-home-ac-system)
-- [Guitar Teaching Tool (Documentation Work in Progress)](#guitar-teaching-tool)
-- [GazdaSolar Estimate Tool (Documentation Work in Progress)](#gazdasolar-estimate-tool)
+- <span style="color: red;">[RAID 5 File System from Scratch](#raid-5-file-system-from-scratch)</span>
+- <span style="color: red;">[Linux Keyboard Driver](#linux-keyboard-driver)</span>
+- <span style="color: red;">[Case Study on Parallel Computing Benchmark LAGHOS](#case-study-on-parallel-computing-benchmark-laghos)</span>
+- <span style="color: red;">[AWS IoT Home AC System](#aws-iot-home-ac-system)</span>
+- [Guitar Teaching Tool](#guitar-teaching-tool)
+- [GazdaSolar Estimate Tool](#gazdasolar-estimate-tool)
 
 # List of Projects:
 ## **[The UkeMaster 3000:](https://github.com/NikodemGazda/Projects/tree/main/The%20UkeMaster%203000)**
