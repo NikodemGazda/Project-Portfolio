@@ -1,5 +1,5 @@
-# Undergraduate Project Portfolio
-This repository is a collection of the personal and classroom projects I've completed during my undergraduate degree at the University of Florida.
+# Project Portfolio
+This repository is a collection of the individual and collaborative projects I've worked on during my undergraduate and graduate degrees at the University of Florida, as well as projects I've taken on personally to develop my skills and expand my expertise in computer engineering.
 
 # List of Projects:
 ## **[The UkeMaster 3000:](https://github.com/NikodemGazda/Projects/tree/main/The%20UkeMaster%203000)**
