@@ -3,6 +3,4 @@ This section of the project implements Pong on an FPGA using only hardware. Plea
 
 ## Video Demo:
 
-https://youtu.be/xeyRFYQphgc
-
 [![Watch the video](https://img.youtube.com/vi/xeyRFYQphgc/maxresdefault.jpg)](https://youtu.be/xeyRFYQphgc)
