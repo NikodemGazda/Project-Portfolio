@@ -10,10 +10,10 @@ This repository is a collection of the individual and collaborative projects I'v
 - [MIPS Architecture](#mips-architecture)
 - [SRAM VLSI Design](#sram-vlsi-design)
 - [Logo Classification](#logo-classification)
-- <span style="color: red;">[RAID 5 File System from Scratch](#raid-5-file-system-from-scratch)</span>
-- <span style="color: red;">[Linux Keyboard Driver](#linux-keyboard-driver)</span>
-- <span style="color: red;">[Case Study on Parallel Computing Benchmark LAGHOS](#case-study-on-parallel-computing-benchmark-laghos)</span>
-- <span style="color: red;">[AWS IoT Home AC System](#aws-iot-home-ac-system)</span>
+- <a href="#raid-5-file-system-from-scratch" style="color: red;">RAID 5 File System from Scratch</a>
+- <a href="#linux-keyboard-driver" style="color: red;">Linux Keyboard Driver</a>
+- <a href="#case-study-on-parallel-computing-benchmark-laghos" style="color: red;">Case Study on Parallel Computing Benchmark LAGHOS</a>
+- <a href="#aws-iot-home-ac-system" style="color: red;">AWS IoT Home AC System</a>
 - [Guitar Teaching Tool](#guitar-teaching-tool)
 - [GazdaSolar Estimate Tool](#gazdasolar-estimate-tool)
 
