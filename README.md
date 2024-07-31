@@ -36,7 +36,7 @@ Game of Breakout programmed from scratch using an RTOS on a TIVA C series Launch
 
 [Back to Top](#table-of-contents)
 
-## **[DRAM DMA Interface:](folder_work_in_progress)**
+## **[DRAM DMA Interface:](https://github.com/NikodemGazda/Project-Portfolio/tree/main/DRAM%20DMA%20Interface)**
 Half of the final for Recongifurable Computing, this project is a DRAM DMA interface that streams data to/from external DRAM. The main challenge of interfacing with the DRAMs is dealing with both control and data signals that cross clock domains. This project dealt with RTL Design, plenty of functional verification, time-domain crossing, and metastability.
 
 <img src="https://github.com/NikodemGazda/Project-Portfolio/assets/26459327/e6f79df7-55d0-46a1-95a9-b7a276275207" width="360" height="200">
@@ -54,7 +54,7 @@ Fully functioning game of pong implemented using a Basys 3 FPGA in both VHDL and
 
 [Back to Top](#table-of-contents)
 
-## **[MIPS Architecture:](folder_work_in_progress)**
+## **[MIPS Architecture:](https://github.com/NikodemGazda/Project-Portfolio/tree/main/MIPS%20Architecture)**
 Functioning MIPS architecture capable of running programs built on the DE-10 Lite FPGA. This was a final project for EEL4712 - Digital Design. Project includes diagram to explain datapath and FSM.
 
 <img src="https://github.com/NikodemGazda/Project-Portfolio/assets/26459327/93c21f84-c250-4552-83ba-892e93901c30" width="317" height="200">
@@ -81,7 +81,7 @@ Logo classification machine learning model (using GoogLeNet) used to classify na
 
 [Back to Top](#table-of-contents)
 
-## **[RAID 5 File System from Scratch:](folder_work_in_progress)**
+## **[RAID 5 File System from Scratch:](https://github.com/NikodemGazda/Project-Portfolio/tree/main/RAID%205%20File%20System)**
 Functioning MIPS architecture capable of running programs built on the DE-10 Lite FPGA. This was a final project for EEL4712 - Digital Design. Project includes diagram to explain datapath and FSM.
 
 <img src="https://github.com/NikodemGazda/Project-Portfolio/assets/26459327/93c21f84-c250-4552-83ba-892e93901c30" width="317" height="200">
@@ -90,7 +90,7 @@ Functioning MIPS architecture capable of running programs built on the DE-10 Lit
 
 [Back to Top](#table-of-contents)
 
-## **[Linux Keyboard Driver:](folder_work_in_progress)**
+## **[Linux Keyboard Driver:](https://github.com/NikodemGazda/Project-Portfolio/tree/main/Linux%20Keyboard%20Driver)**
 Functioning MIPS architecture capable of running programs built on the DE-10 Lite FPGA. This was a final project for EEL4712 - Digital Design. Project includes diagram to explain datapath and FSM.
 
 <img src="https://github.com/NikodemGazda/Project-Portfolio/assets/26459327/93c21f84-c250-4552-83ba-892e93901c30" width="317" height="200">
@@ -99,7 +99,7 @@ Functioning MIPS architecture capable of running programs built on the DE-10 Lit
 
 [Back to Top](#table-of-contents)
 
-## **[Case Study on Parallel Computing Benchmark LAGHOS:](folder_work_in_progress)**
+## **[Case Study on Parallel Computing Benchmark LAGHOS:](https://github.com/NikodemGazda/Project-Portfolio/tree/main/PCA%20Case%20Study)**
 Functioning MIPS architecture capable of running programs built on the DE-10 Lite FPGA. This was a final project for EEL4712 - Digital Design. Project includes diagram to explain datapath and FSM.
 
 <img src="https://github.com/NikodemGazda/Project-Portfolio/assets/26459327/93c21f84-c250-4552-83ba-892e93901c30" width="317" height="200">
@@ -108,7 +108,7 @@ Functioning MIPS architecture capable of running programs built on the DE-10 Lit
 
 [Back to Top](#table-of-contents)
 
-## **[AWS IoT Home AC System:](folder_work_in_progress)**
+## **[AWS IoT Home AC System:](https://github.com/NikodemGazda/Project-Portfolio/tree/main/AWS%20IoT%20Home%20AC)**
 Functioning MIPS architecture capable of running programs built on the DE-10 Lite FPGA. This was a final project for EEL4712 - Digital Design. Project includes diagram to explain datapath and FSM.
 
 <img src="https://github.com/NikodemGazda/Project-Portfolio/assets/26459327/93c21f84-c250-4552-83ba-892e93901c30" width="317" height="200">
@@ -117,7 +117,7 @@ Functioning MIPS architecture capable of running programs built on the DE-10 Lit
 
 [Back to Top](#table-of-contents)
 
-## **[Guitar Teaching Tool:](folder_work_in_progress)**
+## **[Guitar Teaching Tool:](https://github.com/NikodemGazda/Project-Portfolio/tree/main/Guitar%20Teaching%20Tool)**
 Learned JavaScript to create an app to make it easier to learn the guitar. I honestly use this very often and though the code is less complicated than the other projects listed in this portfolio, it's by far the most useful project and one of the ones I'm most proud of. Pure engineering--I had a problem and I solved it.
 
 <img src="https://github.com/NikodemGazda/Project-Portfolio/assets/26459327/ed002c83-b59b-40c3-89f0-6b64da41b029" width="423" height="200">
@@ -126,7 +126,7 @@ Learned JavaScript to create an app to make it easier to learn the guitar. I hon
 
 [Back to Top](#table-of-contents)
 
-## **[GazdaSolar Estimate Tool:](folder_work_in_progress)**
+## **[GazdaSolar Estimate Tool:](https://github.com/NikodemGazda/Project-Portfolio/tree/main/GazdaSolar%20Estimate%20Tool)**
 Estimate calculator tool for solar panel installation company GazdaSolar. Challenged to create this calculator with no prior knowledge of website development. Learned tools like PHP, CSS, or HTML to create the beautiful masterpiece you see before you:
 
 <img src="https://github.com/NikodemGazda/Project-Portfolio/assets/26459327/d67fb82c-4444-427f-b9ec-60ecde02dde7" width="347" height="400">
