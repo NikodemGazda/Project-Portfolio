@@ -39,7 +39,7 @@ Game of Breakout programmed from scratch using an RTOS on a TIVA C series Launch
 ## **[DRAM DMA Interface:](https://github.com/NikodemGazda/Project-Portfolio/tree/main/DRAM%20DMA%20Interface)**
 Half of the final for Recongifurable Computing, this project is a DRAM DMA interface that streams data to/from external DRAM. The main challenge of interfacing with the DRAMs is dealing with both control and data signals that cross clock domains. This project dealt with RTL Design, plenty of functional verification, time-domain crossing, and metastability.
 
-<img src="https://github.com/NikodemGazda/Project-Portfolio/assets/26459327/e6f79df7-55d0-46a1-95a9-b7a276275207" width="360" height="200">
+<img src="https://github.com/user-attachments/assets/1bb55f3c-89c7-4fb4-baee-93378dcee4c1" width="360" height="200">
 
 **Relevant topics: RTL Design, Functional digital verification, time-domain crossing, metastability.**
 
