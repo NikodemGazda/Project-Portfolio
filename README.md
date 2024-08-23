@@ -8,7 +8,7 @@ These links will take you to a summary of each project, which then links to the 
 - [GatorBreaker](#gatorbreaker)
 - [DRAM DMA Interface](#dram-dma-interface)
 - [FPGA Pong](#fpga-pong)
-- [MIPS Architecture](#mips-architecture) 🔧
+- [MIPS Architecture](#mips-architecture)
 - [SRAM VLSI Design](#sram-vlsi-design)
 - [Logo Classification](#logo-classification)
 - [RAID 5 File System from Scratch](#raid-5-file-system-from-scratch) 🔧
