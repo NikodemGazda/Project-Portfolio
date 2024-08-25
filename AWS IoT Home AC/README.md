@@ -2,7 +2,7 @@
 This was a final project for EEL5739 IoT Security and Privacy. The outcome was a safe and secure system that manages temperature and humidity levels in a long house, incorporating RSA-encrypted MQTT for secure communication and deploying multiple IoT devices for climate control. We addressed various security challenges and risks through detailed risk assessment and implemented robust safeguards, ensuring the system's reliability and security.
 
 # Video Demo
-See this link below for a demonstration of the project:
+See this link for a demonstration of the project:
 https://youtu.be/YCdt9cbvQGI
 
 # More Information
