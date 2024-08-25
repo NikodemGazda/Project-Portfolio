@@ -1,4 +1,7 @@
-# README for the simulator (Assignment 7a):
+# Linux Keyboard Driver
+Below is the documentation for the final project for EEL 5733 Advanced Systems Programming which involves implementing a user-space simulator for the usbkbd driver. The simulator closely models the callbacks and concurrency aspects of the original driver, including URB completion handlers and input subsystem callbacks. The goal is to ensure accurate simulation of keyboard events and LED status using multi-process and multi-threaded architecture.
+
+For the code, see the [code](https://github.com/NikodemGazda/Project-Portfolio/blob/main/Linux%20Keyboard%20Driver/code.zip). For more on the project scope, see the [project instructions](https://github.com/NikodemGazda/Project-Portfolio/blob/main/Linux%20Keyboard%20Driver/project_instructions.pdf). For more information on the implementation, see below.
 
 ## Build:
 - make (Makefile uses g++ compiler, run using WSL on Ubuntu 22.04.4 LTS)
