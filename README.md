@@ -109,7 +109,7 @@ This case study was a final project for EEL6763 Parallel Computer Architecture. 
 [Back to Top](#table-of-contents)
 
 ## **[AWS IoT Home AC System:](https://github.com/NikodemGazda/Project-Portfolio/tree/main/AWS%20IoT%20Home%20AC)**
-Created an automatic home AC system using AWS in a group of 4 as a final project for EEL5739 IoT Security and Privacy. The outcome was a safe and secure system that manages temperature and humidity levels in a long house, incorporating RSA-encrypted MQTT for secure communication and deploying multiple IoT devices for climate control. We addressed various security challenges and risks through detailed risk assessment and implemented robust safeguards, ensuring the system's reliability and security.
+Created an automatic home AC system using AWS in a group of 4 as a final project for EEL5739 IoT Security and Privacy.
 
 <img src="https://github.com/user-attachments/assets/8019ea08-f50a-4c53-8934-223c1f946956" width="317" height="200">
 
