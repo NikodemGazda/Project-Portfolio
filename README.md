@@ -2,7 +2,7 @@
 This repository is a collection of the individual and collaborative projects I've worked on during my undergraduate and graduate degrees at the University of Florida, as well as projects I've taken on personally to develop my skills and expand my expertise in computer engineering.
 
 # Table of Contents:
-These links will take you to a summary of each project, which then links to the project pages.
+These links will take you to a summary of each project, which then links to each project's respective page.
 - [The UkeMaster 3000](#the-ukemaster-3000)
 - [GatorBreaker](#gatorbreaker)
 - [DRAM DMA Interface](#dram-dma-interface)
