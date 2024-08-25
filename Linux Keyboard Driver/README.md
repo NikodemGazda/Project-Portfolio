@@ -28,5 +28,5 @@ For the code, see the [code](https://github.com/NikodemGazda/Project-Portfolio/b
 - usb_kbd_ctrl() is the ctrl endpoint thread. It polls the command pipe and reads from led_buffer/ACKs accordingly. Sets a flag once ACK sends. Once the simulation finishes, it prints the CAPS toggle information.
 
 ## Assumptions:
-- There were some inconsistencies between the assignment instructions and the usbkbd slides it referenced. For example, the assignment diagram showed both usb_kbd_event and usb_kbd_led writing to the led_buffer, but the slides only showed the ctrl endpoint writing to the shared led_buffer. I compromised by having the event thread set the buffer on caps presses and usb_kbd_led write to led_buffer on caps releases.
+- The event thread sets the buffer on caps presses and usb_kbd_led writes to led_buffer on caps releases.
 - Implemented so only one key press is accepted at a time, so synchronization is achieved through the urb_submitted variable.
