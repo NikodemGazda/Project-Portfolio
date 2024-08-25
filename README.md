@@ -11,7 +11,7 @@ These links will take you to a summary of each project, which then links to the 
 - [MIPS Architecture](#mips-architecture)
 - [SRAM VLSI Design](#sram-vlsi-design)
 - [Logo Classification](#logo-classification)
-- [RAID 5 File System from Scratch](#raid-5-file-system-from-scratch) 🔧
+- [RAID 5 File System from Scratch](#raid-5-file-system-from-scratch)
 - [Linux Keyboard Driver](#linux-keyboard-driver) 🔧
 - [Case Study on Parallel Computing Benchmark LAGHOS](#case-study-on-parallel-computing-benchmark-laghos) 🔧
 - [AWS IoT Home AC System](#aws-iot-home-ac-system) 🔧
@@ -92,11 +92,11 @@ This final project for EEL4736 Principles of Computer System Design extends a cl
 [Back to Top](#table-of-contents)
 
 ## **[Linux Keyboard Driver:](https://github.com/NikodemGazda/Project-Portfolio/tree/main/Linux%20Keyboard%20Driver)**
-Functioning MIPS architecture capable of running programs built on the DE-10 Lite FPGA. This was a final project for EEL4712 - Digital Design. Project includes diagram to explain datapath and FSM.
+For the final project of EEL 5733 Advanced Systems Programming, I created a user space simulator that modeled the usbkbd driver, focusing on I/O communication concurrency and using pipes, threads, and URB completion handlers. The project demonstrated the correct handling of key events and LED statuses through multi-process and multi-threaded architecture.
 
-<img src="https://github.com/NikodemGazda/Project-Portfolio/assets/26459327/93c21f84-c250-4552-83ba-892e93901c30" width="317" height="200">
+<img src="https://github.com/user-attachments/assets/752669bc-0fb0-4e25-8c64-240000fdf020" width="317" height="200">
 
-**Relevant topics: VHDL, Digital Design, FPGA, Computer systems, FSM, Datapath**
+**Relevant topics: Linux drivers, multi-threaded programming, URB completion handlers, USB drivers**
 
 [Back to Top](#table-of-contents)
 
