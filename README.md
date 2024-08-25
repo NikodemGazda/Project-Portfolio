@@ -2,7 +2,6 @@
 This repository is a collection of the individual and collaborative projects I've worked on during my undergraduate and graduate degrees at the University of Florida, as well as projects I've taken on personally to develop my skills and expand my expertise in computer engineering.
 
 # Table of Contents:
-### 🔧: Documentation in progress
 These links will take you to a summary of each project, which then links to the project pages.
 - [The UkeMaster 3000](#the-ukemaster-3000)
 - [GatorBreaker](#gatorbreaker)
@@ -14,9 +13,9 @@ These links will take you to a summary of each project, which then links to the 
 - [RAID 5 File System from Scratch](#raid-5-file-system-from-scratch)
 - [Linux Keyboard Driver](#linux-keyboard-driver)
 - [Case Study on Parallel Computing Benchmark LAGHOS](#case-study-on-parallel-computing-benchmark-laghos)
-- [AWS IoT Home AC System](#aws-iot-home-ac-system) 🔧
-- [Guitar Teaching Tool](#guitar-teaching-tool) 🔧
-- [GazdaSolar Estimate Tool](#gazdasolar-estimate-tool) 🔧
+- [AWS IoT Home AC System](#aws-iot-home-ac-system)
+- [Guitar Teaching Tool](#guitar-teaching-tool)
+- [GazdaSolar Estimate Tool](#gazdasolar-estimate-tool)
 
 # List of Projects:
 ## **[The UkeMaster 3000:](https://github.com/NikodemGazda/Projects/tree/main/The%20UkeMaster%203000)**
