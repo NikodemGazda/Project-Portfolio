@@ -12,7 +12,7 @@ These links will take you to a summary of each project, which then links to the 
 - [SRAM VLSI Design](#sram-vlsi-design)
 - [Logo Classification](#logo-classification)
 - [RAID 5 File System from Scratch](#raid-5-file-system-from-scratch)
-- [Linux Keyboard Driver](#linux-keyboard-driver) 🔧
+- [Linux Keyboard Driver](#linux-keyboard-driver)
 - [Case Study on Parallel Computing Benchmark LAGHOS](#case-study-on-parallel-computing-benchmark-laghos) 🔧
 - [AWS IoT Home AC System](#aws-iot-home-ac-system) 🔧
 - [Guitar Teaching Tool](#guitar-teaching-tool) 🔧
