@@ -83,11 +83,11 @@ Logo classification machine learning model (using GoogLeNet) used to classify na
 [Back to Top](#table-of-contents)
 
 ## **[RAID 5 File System from Scratch:](https://github.com/NikodemGazda/Project-Portfolio/tree/main/RAID%205%20File%20System)**
-Functioning MIPS architecture capable of running programs built on the DE-10 Lite FPGA. This was a final project for EEL4712 - Digital Design. Project includes diagram to explain datapath and FSM.
+This final project for EEL4736 Principles of Computer System Design extends a client-server file system built in previous homework assignments to support multiple servers with redundant block storage, implementing RAID-5 for fault tolerance, data integrity, and performance optimization. The system handles corrupt blocks and server disconnections using checksum-based error detection and repair mechanisms, while ensuring load balancing, data parity management, and recovery processes.
 
-<img src="https://github.com/NikodemGazda/Project-Portfolio/assets/26459327/93c21f84-c250-4552-83ba-892e93901c30" width="317" height="200">
+<img src="https://github.com/user-attachments/assets/54ec4eaa-1a50-4fbb-b006-77395419b123" width="317" height="200">
 
-**Relevant topics: VHDL, Digital Design, FPGA, Computer systems, FSM, Datapath**
+**Relevant topics: RAID-5, Fault Tolerance, File Systems, Data Integrity**
 
 [Back to Top](#table-of-contents)
 
