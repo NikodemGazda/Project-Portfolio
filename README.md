@@ -36,6 +36,15 @@ Game of Breakout programmed from scratch using an RTOS on a TIVA C series Launch
 
 [Back to Top](#table-of-contents)
 
+## **[N-Set Cache w/ LRU Replacement:](https://github.com/NikodemGazda/Project-Portfolio/tree/main/Custom%20Set-Associative%20CacheRam%20System%20with%20LRU%20Replacement)**
+This is a custom hardware n-set cache and RAM system that uses the LRU replacement strategy, implemented and verified in SystemVerilog. This was a personal project (though it just so happened that I could use it as a Computer Architecture final project) where I aimed not only to have a better understanding of the internal workings of a Cache/RAM system and the LRU replacement strategy, but also so that I can familiarize myself more with SystemVerilog verification practices (CRV, assertions, reference models). The documentation totals ~30 pages/10k words, the design code is ~1k lines and the verification code is around ~3k lines. Best of all, it was completed all using [EDA playground](https://www.edaplayground.com/x/BhLN)! This link takes you to the top-level testbench. To see any other testbenches, you have to physcially copy and paste the code in, sorry.
+
+<img src="https://github.com/user-attachments/assets/02ec46ee-ef74-4e56-ac43-ba3efa4b6022" width="360" height="200">
+
+**Relevant topics: RTOS.**
+
+[Back to Top](#table-of-contents)
+
 ## **[DRAM DMA Interface:](https://github.com/NikodemGazda/Project-Portfolio/tree/main/DRAM%20DMA%20Interface)**
 Half of the final for Recongifurable Computing, this project is a DRAM DMA interface that streams data to/from external DRAM. The main challenge of interfacing with the DRAMs is dealing with both control and data signals that cross clock domains. This project dealt with RTL Design, plenty of functional verification, time-domain crossing, and metastability.
 
