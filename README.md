@@ -3,9 +3,9 @@ This repository is a collection of the individual and collaborative projects I'v
 
 # Table of Contents:
 These links will take you to a summary of each project, which then links to each project's respective page.
-## Post-Academic Era
+### Post-Academic Era
 - [Svelte GazdaSolar Website](#svelte-gazdasolar-website) **(In Progress)**
-## Academic Era
+### Academic Era
 - [The UkeMaster 3000](#the-ukemaster-3000)
 - [GatorBreaker](#gatorbreaker)
 - [N-Set Cache w/ LRU](#n-set-cache-with-lru-replacement)
