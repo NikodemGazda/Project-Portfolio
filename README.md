@@ -1,8 +1,11 @@
 # Project Portfolio
-This repository is a collection of the individual and collaborative projects I've worked on during my undergraduate and graduate degrees at the University of Florida, as well as projects I've taken on personally to develop my skills and expand my expertise in computer engineering.
+This repository is a collection of the individual and collaborative projects I've worked on during my undergraduate and graduate degrees at the University of Florida, as well as projects I've taken on personally to develop my skills and expand my expertise.
 
 # Table of Contents:
 These links will take you to a summary of each project, which then links to each project's respective page.
+## Post-Academic Era
+- [Svelte GazdaSolar Website](#svelte-gazdasolar-website) **(In Progress)**
+## Academic Era
 - [The UkeMaster 3000](#the-ukemaster-3000)
 - [GatorBreaker](#gatorbreaker)
 - [N-Set Cache w/ LRU](#n-set-cache-with-lru-replacement)
